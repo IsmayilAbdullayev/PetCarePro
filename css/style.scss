@@ -1,0 +1,30 @@
+.menu{
+    .logo{
+        img{
+         width: 250px;
+         height: 70px;       
+        }
+    }
+     .nav {
+         ul{
+        
+        li{
+             display: inline;
+             position: relative;
+             a{
+                 text-decoration: none;
+             }
+             
+             ul.drop-down{
+                 
+                 li{
+                     position: absolute;
+                    
+                     
+                 }
+             }
+        }
+     }  
+    }
+}
+
